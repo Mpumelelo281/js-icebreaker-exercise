@@ -1,0 +1,42 @@
+// The name of your favorite movie.
+// The number of siblings you have.
+// A value representing whether you have seen the movie Inception.
+// A description of a dream vacation spot, including the country, city, and a planned activity.
+
+let favMovie = "Train to Busan"
+console.log(favMovie);
+
+let numSiblings = 3
+console.log(numSiblings);
+
+let movieInception = false
+console.log(movieInception);
+
+const dreamVacation = {
+    vacationSport: "Eiffel Tower",
+    country: "France",
+    city: "Paris",
+    plannedActivity: "Dinner date",
+    
+}
+console.log(dreamVacation);
+
+
+// A list of your top 3 favorite foods.
+// A variable for a user's discount code, which is intentionally left empty because they don't have one.
+// A variable for a user's profile picture URL, which hasn't been set yet.
+// A uniquely large number representing a galactic star ID that is too big for a standard number type.
+
+const favFoods = ["Pizza", "Burger", "Watermelon"];
+console.log(favFoods);
+
+const discountCode = "";
+console.log(discountCode);
+
+const pictureURL = "";
+console.log(pictureURL);
+
+
+// //Q8
+// let num = toExponential(53654542424254245212142);
+// console.log(num);
