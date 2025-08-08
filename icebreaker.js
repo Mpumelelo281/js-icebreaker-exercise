@@ -30,13 +30,13 @@ console.log(dreamVacation);
 const favFoods = ["Pizza", "Burger", "Watermelon"];
 console.log(favFoods);
 
-const discountCode = "";
+const discountCode = null;
 console.log(discountCode);
 
-const pictureURL = "";
-console.log(pictureURL);
+let pictureURL;
+console.log(`The user profile  picture URL is: ${pictureURL}`);
 
 
 // //Q8
-let num = 9900000000000000025447242452452452452545470000000;
-console.log(num.toPrecision(25));
+const largeNum = 234566235456657687989856443n;
+console.log(largeNum);
