@@ -38,5 +38,5 @@ console.log(pictureURL);
 
 
 // //Q8
-// let num = toExponential(53654542424254245212142);
-// console.log(num);
+let num = 9900000000000000025447242452452452452545470000000;
+console.log(num.toPrecision(25));
